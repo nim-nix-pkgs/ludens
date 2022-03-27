@@ -11,6 +11,7 @@
   inputs.src-ludens-master.ref   = "refs/heads/master";
   inputs.src-ludens-master.owner = "rnentjes";
   inputs.src-ludens-master.repo  = "nim-ludens";
+  inputs.src-ludens-master.dir   = "";
   inputs.src-ludens-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
