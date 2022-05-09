@@ -7,8 +7,17 @@
   "license": "MIT",
   "web": "https://github.com/rnentjes/nim-ludens",
   "refs": [
-    "fatal: unable to access 'https://github.com/rnentjes/nim-ludens/': Could not resolve host: github.com",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "description": "Little game library using opengl and sfml",
+      "license": "MIT",
+      "name": "ludens",
+      "ref": "refs/heads/master",
+      "url": "https://github.com/rnentjes/nim-ludens",
+      "version": "master"
+    }
+  ]
 }
