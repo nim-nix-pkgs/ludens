@@ -1,3 +1,0 @@
-#!/bin/bash
-
-nim c -d:useRealtimeGC -d:release --parallelBuild:0 --deadCodeElim:on --opt:speed -r particles.nim
