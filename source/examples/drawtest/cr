@@ -1,0 +1,3 @@
+#!/bin/bash
+
+nim c -d:useRealtimeGC --parallelBuild:0 -r drawtest.nim
